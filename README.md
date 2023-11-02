@@ -4,7 +4,7 @@ This app was made for the [Congressional App Challenge.](https://www.congression
 
 # Note
 
-To use this app, you need OpenAI's api key. Add that to .env in the root folder build the application.
+To use this app, you need OpenAI's api key. Create a .env file in the root directory and build the application.
 
 example is below
 
@@ -14,7 +14,7 @@ REACT_APP_AUTHKEY = your_api_key
 
 :warning: **Environment variables are stored in builds. If you share your build files with anyone, they will be able to see your api key.**
 
-This project was created using create-react-app
+This project was created using [create-react-app.](https://create-react-app.dev/)
 
 # FAQ
 
